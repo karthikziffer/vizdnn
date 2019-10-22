@@ -30,6 +30,12 @@ visualize_neural_network.viz_feature_map(vis_layer)
 
 ### Sample Viz
 
+- Sample test image
+
+![test-image-name.jpg](https://i.postimg.cc/Njnbfjtt/test-image-name.jpg)
+
+<br>
+
 - Vizualization from Resnet50 conv1_bn Layer.
 
 
