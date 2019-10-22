@@ -1,6 +1,8 @@
 # Vizdnn
 
 
+Interpretable Deep Neural network is the next phase of understanding the working of neural network. This library suffices the need to vizualize neural network layer with simple python pip package. 
+
 
 
 
