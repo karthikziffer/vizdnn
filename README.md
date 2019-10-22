@@ -11,7 +11,7 @@ Interpretable Deep Neural network is the next phase of understanding the working
 ### Pip Install
 
 ```
-pip install vizdnn==0.0.1
+pip install vizdnn
 ```
 
 
