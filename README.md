@@ -39,7 +39,6 @@ visualize_neural_network.viz_feature_map(vis_layer)
 
  - Vizualization from VGG16 block2_conv1 Layer.
 
- ![Screenshot-from-2019-10-22-18-46-14.png](https://i.postimg.cc/KcCWQfwF/Screenshot-from-2019-10-22-18-46-14.png)]
+ ![Screenshot-from-2019-10-22-18-46-14.png](https://i.postimg.cc/KcCWQfwF/Screenshot-from-2019-10-22-18-46-14.png)
 
  <br>
- 
