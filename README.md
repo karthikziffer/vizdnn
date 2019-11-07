@@ -18,7 +18,7 @@ pip install vizdnn
 ### Use
 
 ```python
-import vizdnn
+from vizdnn import vizdnn 
 import keras
 
 visualize_neural_network = vizdnn(keras.applications.resnet.ResNet50() , "network_layer_name" , "test_image_name.jpg")
